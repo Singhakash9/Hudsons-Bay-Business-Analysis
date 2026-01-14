@@ -13,7 +13,7 @@ The analysis did not begin with “Why did Hudson’s Bay fail?”
 
 It was reframed as:
 
-> “When did the business lose the ability to recover, and how could that have been identified earlier?”
+“When did the business lose the ability to recover, and how could that have been identified earlier?”
 
 This shifted the focus from explanation to decision timing.
 
