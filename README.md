@@ -146,7 +146,7 @@ By 2020, KPI trends indicated a narrowing set of options:
 - Margins were negative but not yet irreversible  
 - Customer base remained large enough to recover lifetime value  
 - Capital access was still feasible  
-- Operational inefficiencies were measurable but correctable  
+- Operational inefficiencies were measurable and correctable  
 
 Post-2021, declining margins, rising leverage, and accelerating customer churn significantly reduced recovery feasibility.
 
@@ -194,9 +194,9 @@ The dataset was compiled from publicly available information, industry benchmark
 Operational and customer metrics are modeled for analytical purposes and are not audited figures.
 
 Reference context includes:
-- Hudson’s Bay Company historical filings and press coverage  
-- Canadian retail industry performance reports  
-- Public commentary on department store decline and e-commerce growth  
+- Hudson’s Bay historical revenue from public financial summaries
+- Industry benchmarks from retail performance reports
+- Context from news on Canadian retail trends
 
 ---
 
