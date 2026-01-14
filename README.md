@@ -2,8 +2,31 @@
 ## Business Analyst Case Study: KPI Deterioration & Missed Intervention Window
 
 This repository presents a Business Analyst case study on Hudson’s Bay’s decline between 2016 and 2025.  
-The analysis focuses on long-term KPI trends across financial, operational, customer, and digital dimensions to identify early warning signals and evaluate whether intervention was feasible.  
-The objective is to demonstrate metric-led decision support rather than retrospective storytelling.
+The analysis examines long-term KPI trends across financial, operational, customer, and digital dimensions to identify early warning signals and evaluate whether intervention was feasible.
+
+The objective is to demonstrate **metric-led decision support**, not retrospective storytelling.
+
+---
+
+## At-a-Glance
+
+- Analyzed Hudson’s Bay’s decline using multi-year KPI trends (2016–2025)  
+- Identified early warning signals that made failure predictable years in advance  
+- Evaluated when recovery stopped being economically viable  
+- Found that closure resulted from execution timing, not lack of strategic options  
+
+---
+
+## Scope Clarification
+
+**What this analysis is:**
+- A Business Analyst–style KPI diagnosis and decision-support exercise  
+- Focused on identifying risk signals and intervention feasibility  
+
+**What this analysis is not:**
+- An internal Hudson’s Bay data disclosure  
+- A hindsight narrative or academic case study  
+- A claim of access to proprietary information  
 
 ---
 
@@ -17,8 +40,7 @@ The objectives are to:
 - connect metrics to business decisions  
 - assess whether alternative actions were financially viable  
 
-This is not a narrative case study.  
-It is a KPI-driven diagnosis.
+This is a KPI-driven diagnosis.
 
 ---
 
@@ -34,15 +56,14 @@ Primary responsibilities:
 
 ---
 
-## Methodology
+## How Decisions Were Supported
 
-1. Identify critical KPIs across business functions  
-2. Track performance trends from **2016 to 2025**  
-3. Benchmark results against industry norms  
-4. Identify compounding failure points  
-5. Model alternative scenarios and outcomes  
+This analysis was structured to support leadership decisions by:
 
-All conclusions are derived from observed KPI movement, not assumptions.
+1. Monitoring KPIs that materially affect strategic options  
+2. Tracking multi-year trends to separate noise from structural decline  
+3. Identifying when compounding effects reduced future optionality  
+4. Testing whether alternative actions were economically viable within time constraints  
 
 ---
 
@@ -54,7 +75,7 @@ All conclusions are derived from observed KPI movement, not assumptions.
 - EBITDA declined by **$974M**  
 - Debt-to-equity increased nearly **5x**
 
-**Business Analyst insight:**  
+**Insight:**  
 Margin collapse preceded revenue failure, reducing strategic flexibility and reinvestment capacity.
 
 ---
@@ -64,7 +85,7 @@ Margin collapse preceded revenue failure, reducing strategic flexibility and rei
 - Sales per square foot declined **50%**  
 - Daily store traffic declined **63%**
 
-**Business Analyst insight:**  
+**Insight:**  
 Store closures were reactive and did not improve unit-level economics.
 
 ---
@@ -74,7 +95,7 @@ Store closures were reactive and did not improve unit-level economics.
 - Days inventory increased to **203**  
 - Markdown rate reached **48%**
 
-**Business Analyst insight:**  
+**Insight:**  
 Inventory inefficiency became a recurring margin drag rather than a short-term operational issue.
 
 ---
@@ -86,7 +107,7 @@ Inventory inefficiency became a recurring margin drag rather than a short-term o
 - E-commerce penetration stalled at **16.8%**  
 - Mobile conversion averaged **0.8%**
 
-**Business Analyst insight:**  
+**Insight:**  
 Customer erosion occurred before revenue collapse, signaling early brand and experience issues.
 
 ---
@@ -94,14 +115,14 @@ Customer erosion occurred before revenue collapse, signaling early brand and exp
 ## Key Visuals
 
 ### Revenue vs EBITDA Trend
-![Revenue vs EBITDA](charts/revenue_vs_ebitda.png)
+![Revenue vs EBITDA](Charts/revenue_vs_ebitda.png)
 
 Revenue declined steadily, while EBITDA deteriorated faster, indicating structural cost and margin issues.
 
 ---
 
 ### Inventory Efficiency Decline
-![Inventory Efficiency](charts/inventory_efficiency.png)
+![Inventory Efficiency](Charts/inventory_efficiency.png)
 
 Declining inventory turnover and rising days inventory highlight persistent demand planning and execution gaps.
 
@@ -119,14 +140,17 @@ Decision Lag | Fragmented data and manual reporting |
 
 ---
 
-## Missed Intervention Window
+## Key Decision Moment: 2020–2021
 
-Based on KPI trajectories, **2020–2021** represented the final viable intervention period:
-- customer base remained material  
-- brand equity was still measurable  
-- capital access was feasible  
+By 2020, KPI trends indicated a narrowing set of options:
+- Margins were negative but not yet irreversible  
+- Customer base remained large enough to recover lifetime value  
+- Capital access was still feasible  
+- Operational inefficiencies were measurable but correctable  
 
-Post-2022 KPI deterioration crossed recovery thresholds.
+Post-2021, declining margins, rising leverage, and accelerating customer churn significantly reduced recovery feasibility.
+
+This period represented the final point at which intervention remained economically rational.
 
 ---
 
@@ -147,7 +171,7 @@ Modeled outcome (base case):
 - e-commerce contribution **>30%**  
 - NPS restored to positive range  
 
-**Business Analyst assessment:**  
+**Assessment:**  
 Recovery was financially viable but highly time-sensitive.
 
 ---
@@ -164,24 +188,29 @@ Retailers exhibiting **five or more** of the following indicators require immedi
 
 ---
 
-## Data Notes
+## Data Notes & Reference Context
 
 The dataset was compiled from publicly available information, industry benchmarks, and analyst estimates.  
 Operational and customer metrics are modeled for analytical purposes and are not audited figures.
+
+Reference context includes:
+- Hudson’s Bay Company historical filings and press coverage  
+- Canadian retail industry performance reports  
+- Public commentary on department store decline and e-commerce growth  
 
 ---
 
 ## What Could Have Prevented Closure
 
-The analysis indicates that Hudson’s Bay’s closure was not driven by a single external shock, but by compounding execution failures visible in KPI trends years in advance.
+The analysis indicates that Hudson’s Bay’s closure was driven by compounding execution failures visible in KPI trends years in advance.
 
 From a Business Analyst perspective, the following factors would have had the highest probability of preventing closure:
 
 1. **Earlier capital reallocation**  
-   Reducing leverage through non-core asset divestment would have restored financial flexibility and enabled reinvestment before KPI deterioration became irreversible.
+   Reducing leverage through non-core asset divestment would have restored financial flexibility before KPI deterioration became irreversible.
 
 2. **Timely digital and omnichannel execution**  
-   Closing conversion, fulfillment, and mobile experience gaps between **2018–2021** would have slowed customer erosion.
+   Closing conversion, fulfillment, and mobile experience gaps between 2018–2021 would have slowed customer erosion.
 
 3. **Inventory and demand planning discipline**  
    Predictive forecasting and inventory optimization would have reduced excess stock, markdown dependency, and margin compression.
