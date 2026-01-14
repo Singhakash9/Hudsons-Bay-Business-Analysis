@@ -84,7 +84,8 @@ It is a **metric-led diagnosis**.
 ## Key Visuals
 
 ### Revenue vs EBITDA Trend
-![Revenue vs EBITDA](charts/revenue_vs_ebitda.png)
+![Revenue vs EBITDA](charts/revenue_vs_ebitda.png) <img src="image-url.png" alt="Alt text" style="width:50%; height:auto;">
+
 
 *Revenue declined steadily, while EBITDA collapsed faster, indicating structural cost and margin issues.*
 
