@@ -190,13 +190,19 @@ Retailers exhibiting **five or more** of the following indicators require immedi
 
 ## Data Notes & Reference Context
 
-The dataset was compiled from publicly available information, industry benchmarks, and analyst estimates.  
-Operational and customer metrics are modeled for analytical purposes and are not audited figures.
+The dataset was compiled from publicly available information, industry benchmarks, and analyst estimates. Operational and customer metrics are modeled for analytical purposes and are not audited figures.
 
-Reference context includes:
-- Hudson’s Bay historical revenue from public financial summaries
-- Industry benchmarks from retail performance reports
-- Context from news on Canadian retail trends
+Supporting sources for external context and trend validation:
+
+- Statista: Hudson’s Bay Company retail sales figures, 1990–2023 — provides historical revenue trend context.  
+  https://www.statista.com/statistics/436750/retail-sales-of-hudsons-bay-company/
+
+- Statista: Overview of Hudson’s Bay Company trends and key statistics — useful for industry contextualization and comparisons.  
+  https://www.statista.com/topics/4479/hudson-s-bay-company/#statisticChapter
+
+- Retail Insider (2025): Hudson’s Bay cash flow status amid liquidation — real world evidence of final operational outcomes.  
+  https://retail-insider.com/retail-insider/2025/04/hudsons-bay-exceeds-cash-flow-forecast-amid-liquidation/
+
 
 ---
 
